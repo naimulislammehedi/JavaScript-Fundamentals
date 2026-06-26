@@ -12,8 +12,3 @@ In JavaScript
 - Output -> Return value
 */
 
-function greet() {
-    console.log("Hello, World"); 
-}
-
-greet(); 
